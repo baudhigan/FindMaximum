@@ -44,9 +44,9 @@ def max_marks(list1):
 
 
 ## Output:
-![Python Ex 6(1)](https://github.com/baudhigan/FindMaximum/assets/151921158/77c5ef12-a398-4ed3-a660-f88290d3100f)
-![Python Ex 6(2)](https://github.com/baudhigan/FindMaximum/assets/151921158/2a5945c9-67c5-42ff-a72c-c14b476f2b29)
-![Python Ex 6(3)](https://github.com/baudhigan/FindMaximum/assets/151921158/1cb4409e-bcb9-431a-a06d-a07d276c941b)
+![image](https://github.com/baudhigan/FindMaximum/assets/151921158/931c639c-37d1-4bb8-8803-fdff127cd44c)
+![image](https://github.com/baudhigan/FindMaximum/assets/151921158/27d6ca6e-7663-46c4-9992-8e8d52be9866)
+![image](https://github.com/baudhigan/FindMaximum/assets/151921158/41568f2f-0397-4df8-85aa-508ad8d4bba9)
 
 
 ## Result:
