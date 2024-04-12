@@ -11,7 +11,8 @@ To write a program to find the maximum of a list of numbers.
 ## Program:
 
 Developed by: BAUDHIGAN D
-RegisterNumber: 212223230028
+
+Register Number: 212223230028
 
 i)	# To find the maximum of marks using the list method sort.
 ```Python
